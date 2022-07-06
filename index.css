@@ -1,0 +1,95 @@
+html{font-family: sans-serif;
+    background-color: whitesmoke;}
+    body{width: 80%;
+        background-position-x: fixed;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 25px;}
+    #image1{float: left;}
+    .image1{font-weight: 400;
+    color: rgb(5, 5, 94);
+    font-size: 60px;
+    width: auto;
+    padding-right: 5%;}
+    div1{padding: 0%;
+    margin: 0%;
+    max-width: 90%;}
+    button{width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    max-width: auto;
+    max-height: auto;
+    font-size: 25px;
+    font-weight: 600;}
+    .flex-container{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        align-items: center;
+        background-color: white;
+        height: 100px;
+        margin-top: 50px;
+        max-width: 100%;
+        border-radius: 20px;
+        font-size: 30px;
+        
+    }
+    #property{
+        font-size: 30px;
+        border-color: white;
+        background-color: white;
+    }
+    .container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 10px;
+        margin-bottom: 100px;
+    }
+    .form{
+        padding-left: 2%;
+        padding-right: 2%;
+        width: 27%;
+        padding-top: 5px;
+    }
+    #form2{box-shadow: 2px 0px 2px 2px 2em;}
+    .image2{float: left;
+    padding-right: 10%;}
+    #image{ padding: 10%;
+    padding-left: 0%;}
+    .imageii{margin-bottom: 15%;
+    font-size: 30px;}
+    .p1{font-size: 45px;
+    font-weight: 700;
+    color: rgb(9, 9, 90);}
+    #p1{font-size: 25px;
+    font-weight: 80;}
+    #amen{float: right;}
+    #afford{float: right;}
+    .container1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: auto;
+        margin-bottom: 10px;
+    
+    }
+    #image4{background-color: white;
+    margin-right: 5%;
+    border-radius: 20px;}
+    .container2{
+        display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    
+    }
+    .alex{background-color: white;
+        border-radius: 5%;
+        padding: 1.5%;
+        padding-bottom: 0%;
+    }
+    td{text-align: left;}
+    table{width: 100%;}
+    
