@@ -1,7 +1,8 @@
 html{font-family: sans-serif;
-    background-color: whitesmoke;}
+    background-color: whitesmoke;
+overflow: scroll;}
     body{width: 80%;
-        background-position-x: fixed;
+        background-position-x: center;
     margin-left: 10%;
     margin-right: 10%;
     font-size: 25px;}
